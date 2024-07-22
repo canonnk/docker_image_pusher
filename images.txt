@@ -6,3 +6,25 @@ xhofe/alist:latest
 --platform=linux/arm64 xiaoyaliu/alist
 
 homeassistant/home-assistant
+portainer/agent
+mysql:8.0.29
+mysql:9.0.0
+pingcap/tidb:latest
+postgres:latest
+mcr.microsoft.com/mssql/server
+portainer/portainer
+redis/redis-stack-server:latest
+rabbitmq:management
+elasticsearch:7.13.3
+consul:1.14.1
+oceanbase/oceanbase-ce
+liyasthomas/postwoman
+easysoft/zentao:latest
+ghcr.io/requarks/wiki:2
+mcr.microsoft.com/dotnet/aspnet:8.0
+alpine
+prom/prometheus
+prom/alertmanager
+grafana/grafana
+quay.io/prometheus/node-exporter
+google/cadvisor:latest
